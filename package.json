@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@changesets/cli": "^3.0.3",
-    "supabase": "^2.122.0",
+    "supabase": "^3.0.0",
     "turbo": "^2.11.10"
   },
   "dependencies": {
